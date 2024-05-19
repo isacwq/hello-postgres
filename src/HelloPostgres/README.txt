@@ -1,0 +1,5 @@
+dotnet user-secrets set "Db:Host" "myserver"
+dotnet user-secrets set "Db:Port" "myport"
+dotnet user-secrets set "Db:Username" "mylogin"
+dotnet user-secrets set "Db:Password" "mypass"
+dotnet user-secrets set "Db:Database" "mydatabase"
